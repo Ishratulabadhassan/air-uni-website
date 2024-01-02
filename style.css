@@ -86,7 +86,7 @@ padding: 8px;
 .footer{
     text-align: center;
     color: black;
-    background-image: image/air footer.jpeg;
+    background-image: url(air footer.jpeg);
 }
 
 
